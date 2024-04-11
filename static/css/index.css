@@ -139,4 +139,10 @@ body {
 }
 
 
+/* smaller screens */
+@media (max-width: 768px) {
+  .title.is-1 {
+    font-size: 2rem;
+  }
+}
 
